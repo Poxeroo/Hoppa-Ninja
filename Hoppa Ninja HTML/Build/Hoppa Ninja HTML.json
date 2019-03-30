@@ -1,0 +1,13 @@
+{
+"companyName": "Stark Games",
+"productName": "Hoppa Ninja",
+"dataUrl": "Hoppa Ninja HTML.data.unityweb",
+"asmCodeUrl": "Hoppa Ninja HTML.asm.code.unityweb",
+"asmMemoryUrl": "Hoppa Ninja HTML.asm.memory.unityweb",
+"asmFrameworkUrl": "Hoppa Ninja HTML.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
